@@ -32,7 +32,6 @@ body{
   line-height: 80px;
 }
 .nav-menu-item{
-  border:#252641;
   display: flex;
   margin-right: 40px;
   list-style: none;
@@ -41,4 +40,13 @@ body{
   font-size: 18px;
   margin: 0 10px;
   line-height: 80px;
+}
+.nav .number{ 
+  text-align: right;
+  width: 200px;
+  margin: 0 auto;
+  border: #FEB101 solid;
+  border-radius: 30px;
+ background-color: #FEB101;
+ 
 }

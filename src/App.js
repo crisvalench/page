@@ -14,10 +14,10 @@ function App() {
           <li><a href= "#about" className='nav-menu nav-link'>About</a></li>
           <li><a href= "#blog" className='nav-menu nav-link v'>Blog</a></li>
           <li><a href= "#contact" className='nav-menu nav-link'> Contact</a></li>
-          <li><a href= "#contact" className='nav-menu nav-link number'> +1(123 4567890)</a></li>
           </li>
         </ul>
-        
+        <a href= "#" className='nav-menu nav-link number'> +1(123 4567890)</a>
+
       </nav>
       </header>
       <body>
