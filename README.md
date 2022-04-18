@@ -5,7 +5,7 @@ Proyecto de aprendizaje para BT Solution, Ecuador.
 ## Reto
 
 Crear una pagina web con el estilo de una landing page de Figma (Con Figma puedes diseñar pantallas de sitios web, aplicaciones móviles y cualquier otra interfaz gráfica interactiva.)
-Diseño de Figma: (https://www.figma.com/proto/lm5wMPUfYaG8ulIVeQCvU7/Travel-Landing-Page-(Community)?node-id=1%3A3).
+[Diseño de Figma](https://www.figma.com/proto/lm5wMPUfYaG8ulIVeQCvU7/Travel-Landing-Page-(Community)?node-id=1%3A3).
 
 ## ¿Por qué escogí esta plantilla?
 
@@ -17,8 +17,8 @@ A parte por ser una proyecto de practica de BT Solution, lo realizo porque aplic
 ## ¿Que utilice?
 
 ### `Lenguaje de porgramación`
-JavaScripXML o JSX
-CSS
+* JavaScripXML o JSX 
+* CSS
 
 ### `Librería`
 React
@@ -26,14 +26,14 @@ React
 ### `Editor`
 Visual Studio Code - Insiders
 
-### `Repoitorio`
+### `Repositorio`
 GitHub
 
 ### `Terminal`
 Terminal de Mac
 
 
-## HOLIDAYZ
+## ℹ️  HOLIDAYZ
 ###   ¿Qué es?
 Es una landing page de turismo y viajes. 
 ### ¿Qué tipo de pagina es?
@@ -45,7 +45,17 @@ Este proyecto lo realize en casi dos 2 semanas (8 días laborables).
 ### Secciones
 Consta de siete secciones, dos de ellas fueron agregadas personalmente.
 
+**1.** Home
 
+**2.** Events
+
+**3.** About
+
+**4.** Blog
+
+**5.** Experience
+
+**6.** Contact
 
 
 # Getting Started with Create React App
