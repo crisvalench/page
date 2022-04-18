@@ -39,7 +39,7 @@ Es una landing page de turismo y viajes.
 ### ¿Qué tipo de pagina es?
 Es una web estatica eso quiere decir que es aquella página enfocada principalmente a mostrar una información permanente, donde el navegante se limita a obtener dicha información, sin poder interactuar con la página web visitada.
 ### Diseño de la pagina
-El diseño de colores, fuentes, imagenes y demàs es seleccionado directamente de la Figma.
+El diseño de colores, fuentes, imagenes y demàs es seleccionado directamente de Figma.
 ### Tiempo implemantado 
 Este proyecto lo realize en casi dos 2 semanas (8 días laborables).
 ### Secciones
