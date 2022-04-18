@@ -1,32 +1,24 @@
 *{
   margin: 0;
   box-sizing: border-box;
+  background-color: none;
+
 }
-body{
-  font-family: sans-serif;
-}
- .header{
+  .header{
    background-color: #9CF3F9;
-   height: 30px;
    position: fixed;
    width: 100%;
-   height: 100%;
+   /* height: 10%;
    top: 0;
-   left: 0;
- }
-.nav.nav{
-  margin: 0;
-  padding: auto;
-}
+   left: 0; */
+ } 
+
  .nav{
    display: flex;
    justify-content: space-between; 
+   margin-bottom: 0;
 }
-.nav-link{
-  color: #252641;
-  text-decoration: none;
-}
-.nav .logo{
+.logo{
   font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
   color: #FCD54E  ;
@@ -35,7 +27,9 @@ body{
   font-weight: bold;
   letter-spacing: 0.04em;
   line-height: 50px;
-  margin: 10px 50px;
+  margin: 50px;
+  margin-top: 25px;
+  margin-bottom: 10px;
   padding: 5px 5px;
   background-color: #252641;
   border-radius: 16px;
@@ -49,37 +43,63 @@ el diseño de tras del logo
 } */
 
 ul .nav-menu{
-  margin-right: 68px;
   list-style: none;
 }
 .nav-menu{
   font-size: 15px;
   line-height: 80px;
   max-width: 992px;
-  margin: 0 auto;
+  /* margin: 0 auto; */
 }
 
 .nav-menu-item{
   font-family: 'Poppins', sans-serif;
   display: flex;
+  position: space-between;
   text-align: center;
   list-style: none;
+  align-content: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+a{
+  font-family: 'Poppins', sans-serif;
+  padding: 35px;
+  text-decoration: none;
+  color: #252641;
+}
+.telefono{
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+  color: #FCD54E  ;
+  letter-spacing: 0.04em;
+  line-height: 50px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 5px 5px;
+  border-radius: 16px;
 }
 
+.nav .phone{
+  background-color: #FEB101;
+}
 .nav .number{ 
+  text-decoration: none; 
+  background-color: #FEB101;
   color: white;
   justify-content: center ;
   text-align: center;
-  margin:0 50px;
+  margin:50px;
   border: #FEB101 solid;
   padding: 10px;
   border-radius: 30px;
- background-color: #FEB101;
-
 }
 
 .nav .number:hover{
   color: black;
   border: black;
-  transition:   color  0.5s ease-in;
+  transition:   color  0.2s ease-in;
 }
+

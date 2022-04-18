@@ -1,0 +1,62 @@
+.contenido4{
+        background-color:white;
+        display: block;
+        width: 100%;
+        height: 100%; 
+        padding-left: 45px;
+        padding-right: 45px;
+        padding-bottom: 100px;
+        padding-top: 130px;
+    }
+.titu{
+    text-align: center;
+}
+.btitu{
+font-family: 'Poppins', sans-serif;
+font-size: 36px;
+color: rgb(127, 39, 54);
+font-weight: bold;
+}
+.bsubti{
+font-family: 'Poppins', sans-serif;
+font-size: 36px;
+font-weight: lighter;
+color: #2C2D32;
+text-transform:uppercase ;
+}
+.texts{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.text2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight:normal;
+    color:#2C2D32;
+    text-align: center;
+}
+.link{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #EE5060;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.contenedor-video{
+position: relative;
+overflow: hidden;
+padding-top: 40%;
+margin: 20px 20%;
+margin-top: 50px;
+border-radius: 10px;
+}
+ .contenedor-video iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
