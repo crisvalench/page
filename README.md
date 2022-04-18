@@ -21,16 +21,16 @@ A parte por ser una proyecto de practica de BT Solution, lo realizo porque aplic
 * CSS
 
 ### `Librería`
-React
+* React
 
 ### `Editor`
-Visual Studio Code - Insiders
+* Visual Studio Code - Insiders
 
 ### `Repositorio`
-GitHub
+* GitHub
 
 ### `Terminal`
-Terminal de Mac
+* Terminal de Mac
 
 
 ## ℹ️  HOLIDAYZ
